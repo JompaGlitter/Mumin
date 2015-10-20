@@ -4,5 +4,4 @@ php:
   - 5.5
   - hhvm
   
-script:
-    - phpunit --bootstrap test/config.php
+script: phpunit --bootstrap test/config.php
